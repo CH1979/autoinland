@@ -1,0 +1,9 @@
+/.ipynb_checkpoints
+/.vscode
+/data
+/env
+
+__pycache__
+*.pyc
+
+/catboost_info
