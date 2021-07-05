@@ -4,7 +4,7 @@ Link for competition: [AutoInland Vehicle Insurance Claim Challenge](https://zin
 * Task: Classification (Insurance claim prediction)
 * Metric: F1-score
 ## Result
-47 from 633
+42 from 633
 
 ### Metric values
 * Cross-validation: 0.375593
