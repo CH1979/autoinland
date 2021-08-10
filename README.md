@@ -9,7 +9,8 @@ pip install -r requirements.txt
 python solution.py
 ```
 ## Result
-47 from 633
+42 from 633
+
 ### Metric values
 * Cross-validation: 0.375593
 * Private: 0.358974
